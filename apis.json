@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Envestnet",
+	"description": "This is a repository of envestnet APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/envestnet.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://envestnet.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Envestnet",
+			"x-api-slug": "envestnet",
+			"description": "Build and transform financial apps and services with access to financial data through our APIs and digital solutions for banks, developers, and innovators.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1691-yodlee.jpg",
+			"humanURL": "http://www.yodlee.com/",
+			"baseURL": "https://api.crunchbase.com//v/3",
+			"tags": "Envestnet",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/envestnet/master/_listings/envestnet/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Envestnet",
+	"include": [
+		{
+			"name": "Envestnet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/envestnet/master/_listings/envestnet/apis.yaml"
+		}
+	]
+}
